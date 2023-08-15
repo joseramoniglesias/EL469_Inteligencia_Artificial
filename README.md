@@ -14,7 +14,7 @@
 * 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
 ### Clase 2 Sáb 12-Ago 2023:
-* * 1.2-Image Classification with Linear Classifier [PPT]([https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Definiciones.pdf](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_Lecture_2.pdf))
+* * 1.2-Image Classification with Linear Classifier [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_Lecture_2.pdf))
 
 ## Semana 2
 ### Clase 3 Vie 18-Ago 2023:
