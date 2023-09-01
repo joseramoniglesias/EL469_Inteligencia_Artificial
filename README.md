@@ -22,3 +22,17 @@
 * 1.3-regularization and Optimization [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_3.pdf))
 
 ### Clase 4 Sáb 19-Ago 2023:
+
+## Semana 3
+### Clase 5 Vie 25-Ago 2023:
+* 1.3-regularization and Optimization [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_3.pdf))
+
+### Clase 6 Sab 26-Ago 2023:
+* Trabajo en clase
+
+## Semana 4
+### Clse 7 Vie 1-Sep 2023:
+* 1.4-regularization and Optimization [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_4.pdf))
+
+### Clase 8 Sab 2-Sep 2023:
+* Trabajo en clase
