@@ -62,18 +62,17 @@
 ## Semana 8
 ### Clase 15 Vie 29-Sep 2023:
 * 2.4 Recurrent Neural Networks [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_8.pdf)
+
+### Clase 16 Sab 30-Sep 2023
+* Trabajo en clase
+
+## Semana 9
+### Clase 17 Vie 6-Oct 2023:
+* 2.5 Attention and Transformers [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_9.pdf)
 * Suggested Readings:
 * Attention is All You Need [Original Transformers Paper](https://arxiv.org/abs/1706.03762)
 * Attention? Attention [Blog by Lilian Weng](https://lilianweng.github.io/posts/2018-06-24-attention/)
 * The Illustrated Transformer [Blog by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
-* 
 
- ### Clase 16 Sab 30-Sep 2023
- * Trabajo en clase
-
-## Semana 9
- ### Clase 17 Vie 6-Oct 2023:
- 2.5 Attention and Transformers [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_9.pdf)
-
- ### Clase 18 Sab 7-Oct 2023
- * Trabajo en clase
+### Clase 18 Sab 7-Oct 2023
+* Trabajo en clase
