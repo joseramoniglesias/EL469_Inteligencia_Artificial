@@ -19,7 +19,8 @@
 
 ## Semana 2
 ### Clase 3 Vie 18-Ago 2023:
-* 1.3-regularization and Optimization [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_3.pdf))
+* 1.3-regularization and Optimization [PPT]
+(https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_3.pdf))
 
 ### Clase 4 Sáb 19-Ago 2023:
 
@@ -37,9 +38,30 @@
 ### Clase 8 Sab 2-Sep 2023:
 * Trabajo en clase
 
-  ## Semana 5
-  ### Clase 9 Vie 8-Sep 2023:
-  * 1.5 Image Classification with CNNs [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_5.pdf)
+ ## Semana 5
+ ### Clase 9 Vie 8-Sep 2023:
+ * 1.5 Image Classification with CNNs [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_5.pdf)
  
-  ### Clase 10 Sab 9-Sep 2023:
-  * Trabajo en clase  
+ ### Clase 10 Sab 9-Sep 2023:
+ * Trabajo en clase
+
+ ## Semana 6
+ ### Clase 11 Vie 15-Sep 2023:
+ * 1.6 Training Neural Networks [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_6.pdf)
+ 
+ ### Clase 12 Sab 16-Sep 2023:
+ * Trabajo en clase
+
+ ## Semana 7
+ ### Clase 13 Vie 22-Sep 2023:
+ 1.7 CNN Arquitetures [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_7.pdf)
+
+ ### Clase 14 Sab 23-Sep 2023
+ * Trabajo en clase
+
+## Semana 8
+ ### Clase 13 Vie 29-Sep 2023:
+ 1.7 Training Neural Networks [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_7.pdf)
+
+ ### Clase 14 Sab 30-Sep 2023
+ * Trabajo en clase
