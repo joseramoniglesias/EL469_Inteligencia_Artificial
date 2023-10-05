@@ -62,6 +62,8 @@
 ## Semana 8
 ### Clase 15 Vie 29-Sep 2023:
 * 2.4 Recurrent Neural Networks [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_8.pdf)
+* 2.4 DL book RNN [Paper](https://www.deeplearningbook.org/contents/rnn.html)
+* 2.4 Understanding LSTM Networks [Paper](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ### Clase 16 Sab 30-Sep 2023
 * Trabajo en clase
