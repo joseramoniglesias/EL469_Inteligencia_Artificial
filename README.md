@@ -1,5 +1,5 @@
 # Electiva-EL469 Procesamiento de Señales III
-# Deep Learning 2023-2
+# Inteligencia Artificial 2024-1
 ## Planificación del Curso por Días
 
 ## Semana 1
