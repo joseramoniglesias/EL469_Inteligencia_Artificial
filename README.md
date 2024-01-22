@@ -46,6 +46,7 @@
  ### Clase 10 Sab 9-Sep 2023:
  * Trabajo en clase
 
+ # Deep Learning
  ## Semana 6
  ### Clase 11 Vie 15-Sep 2023:
  * 2.2 Training Neural Networks [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_6.pdf)
@@ -79,3 +80,9 @@
 
 ### Clase 18 Sab 7-Oct 2023
 * Trabajo en clase
+
+## Semana 10
+
+
+
+# Reinforcement Learning
