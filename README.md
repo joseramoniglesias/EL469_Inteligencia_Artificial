@@ -2,6 +2,7 @@
 # Inteligencia Artificial 2024-1
 ## Planificación del Curso por Días
 
+# Machine Learning
 ## Semana 1
 ### Clase 01 Vi 11-Ago 2023:
 * 0.1-Programa del curso [PDF]
