@@ -10,9 +10,7 @@
 * 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [Book]
 * 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.1-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
-* 1.2 Descargar Anaconda [Internet](https://www.anaconda.com/)
-* 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
-* 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
+* 1.2 AWS SageMaker Studio Lab [Internet]([https://www.anaconda.com](https://studiolab.sagemaker.aws/)/)
 
 ### Clase 2 Sáb 12-Ago 2023:
 * 1.2-Image Classification with Linear Classifier [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_Lecture_2.pdf))*
