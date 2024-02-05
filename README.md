@@ -18,8 +18,7 @@
 
 ## Semana 2
 ### Clase 3 Vie 23-Feb 2024:
-* 1.3-regularization and Optimization [PPT]
-(https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_3.pdf))
+* 1.3-regularization and Optimization [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_3.pdf))
 
 ### Clase 4 Sáb 24-Feb 2024:
 
