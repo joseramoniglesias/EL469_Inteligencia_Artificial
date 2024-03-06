@@ -13,35 +13,38 @@
 * 1.2 AWS SageMaker Studio Lab [Internet] (https://studiolab.sagemaker.aws/)
 
 ### Clase 2 Sáb 17-feb 2024:
-* 1.2-Image Classification with Linear Classifier [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_Lecture_2.pdf))*
-* 1.2 Assignment 1 [Jupiter]
+* 1.2-Aspetos Básicos [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_AspectosbasicosML.pdf))
+* 1.3 Understanding ML Production [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_01_Understanding_ML_production.pdf)
+* 1.4 ML and Data Systems Fundamentals [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_02_MLandData_Systems_Fundamentals.pdf)
 
 ## Semana 2
 ### Clase 3 Vie 23-Feb 2024:
-* 1.3-regularization and Optimization [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_3.pdf))
+* 1.3-Slides Training Data [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_03_slides_training_data.pdf)
 
 ### Clase 4 Sáb 24-Feb 2024:
+* 1.4 Códigos en Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/tree/main/Machine_Learning/Python)
 
 ## Semana 3
 ### Clase 5 Vie 1-Mar 2024:
-* 1.3-Neural Networks and Backpropagation [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_4.pdf))
+* 1.5-Model Selection, Developmente and Training [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_05_model_development.pdf)
 
 ### Clase 6 Sáb 2-Mar 2024:
-* Trabajo en clase
+* 1.6 Model Offline Evaluation [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_06_model_evaluation.pdf)
 
 ## Semana 4
 ### Clase 7 Vie 8-Mar 2024:
-* 1.4-regularization and Optimization [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_4.pdf)
+* 1.7-Model Evaluation [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_07_Evaluation_Goku_Mohandas.pdf)
 
 ### Clase 8 Sáb 9-Mar 2024:
-* Trabajo en clase
+* 1.8 Deploymente - Prediction Service [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_08_deployment.pdf)
 
  ## Semana 5
  ### Clase 9 Vié 15-Mar 2024:
- * 2.1 Image Classification with CNNs [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_5.pdf)
+ * 1.9 Data Distribution Shifts and Monitoring [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_ml_failure_diagnosis.pdf)
  
  ### Clase 10 Sab 16-Mar 2024:
- * Trabajo en clase
+ * 1.10 ML Beyond Accuracy: Fairness, Security, Gobernance [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_deployment_beyond_test_set_accuracy.pdf)
+ * 1.11 ML Infrestructure & Platform [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_ML_Infrastructure_%26_Platforml.pdf)
 
  # Deep Learning
  ## Semana 6
