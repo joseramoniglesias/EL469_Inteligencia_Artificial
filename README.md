@@ -1,5 +1,5 @@
 # Electiva-EL469 Procesamiento de Señales III
-# Inteligencia Artificial 2024-1
+# Inteligencia Artificial 2024-2
 El curso se divide en tres grandes secciones:
 ## 1- Técnicas y Librerías:
 En esta parte, exploraremos diferentes técnicas a través de pequeños ejemplos que nos permitirán construir proyectos más grandes en la siguiente sección. Aprenderemos a utilizar las librerías más comunes en el mundo de los Grandes Modelos de Lenguaje, siempre con un enfoque práctico, basándonos en artículos publicados.
