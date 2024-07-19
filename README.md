@@ -95,15 +95,14 @@ Los modelos de lenguaje grandes no son una solución independiente. En los grand
 # IA Generatia 
 ## Semana 10
 ### Clase 19 Vie 26-Abr 2024:
-
-
+* Introducción a los modelos de lenguaje grandes con OpenAI.
 
 ### Clase 20 Sab. 27-Abr-2024:
-
+* Bases de datos vectoriales con LLM.
 
 ## Semana 11
 ### Clase 21 Vie. 10-May-2024:
-
+*LangChain.
 
 
 ### Clase 22 Sab. 11-May-2024:
@@ -111,21 +110,21 @@ Los modelos de lenguaje grandes no son una solución independiente. En los grand
 
 ## Semana 12
 ### Clase 23 Vie. 17. May-2024:
-
+* Evaluación de LLM.
 
 ### Clase 24 Sab. 18-May-2024:
 
 
 ## Semana 13
 ### Clase 25 Vie. 24-May-2024:
-
+* Ajuste fino y optimización.
 
 ### Clase 26 Sab. 25-May-2024:
 
 
 ## Semana 14
 ### Clase 27 Vie. 31-May-2024:
-
+* 
 
 ### Clase 28 Sab. 1-Jun-2024:
 
