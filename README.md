@@ -92,7 +92,7 @@ Los modelos de lenguaje grandes no son una solución independiente. En los grand
 ### Clase 18 Sab 20-abr 2024:
 * Trabajo en clase
 
-# Reinforcement Learning 
+# IA Generatia 
 ## Semana 10
 ### Clase 19 Vie 26-Abr 2024:
 
