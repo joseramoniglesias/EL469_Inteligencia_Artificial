@@ -4,17 +4,6 @@ El curso se divide en tres grandes secciones:
 ## Machine Learning
 ## Deep Learning
 ## IA Generativa
-
-## 1- Técnicas y Librerías:
-En esta parte, exploraremos diferentes técnicas a través de pequeños ejemplos que nos permitirán construir proyectos más grandes en la siguiente sección. Aprenderemos a utilizar las librerías más comunes en el mundo de los Grandes Modelos de Lenguaje, siempre con un enfoque práctico, basándonos en artículos publicados.
-Algunos de los temas y tecnologías que se tratan en esta sección incluyen: Chatbots, Generación de código, API de OpenAI, Hugging Face, Bases de datos vectoriales, LangChain, Ajuste fino, Ajuste fino PEFT, Ajuste suave de prompts, LoRA, QLoRA, Evaluar modelos, Destilación de conocimiento.
-
-## 2- Proyectos:
-Crearemos proyectos, explicando las decisiones de diseño. Cada proyecto puede tener más de una implementación posible, ya que a menudo no hay una sola solución perfecta. En esta sección, también profundizaremos en temas relacionados con LLMOps, aunque no es el enfoque principal del curso.
-## 3- Soluciones Empresariales:
-Los modelos de lenguaje grandes no son una solución independiente. En los grandes entornos corporativos, son solo una pieza del rompecabezas. Exploraremos cómo estructurar soluciones capaces de transformar organizaciones con miles de empleados, y cómo los Grandes Modelos de Lenguaje juegan un papel principal en estas nuevas soluciones.
-
-
 ## Planificación del Curso por Días
 
 # Machine Learning
@@ -107,7 +96,16 @@ Aunque en general, se usan para resolver objetivos específicos guiados por su c
 ### Clase 18 Sab 05-Oct 2024:
 * Trabajo en clase
 
-# IA Generativa 
+# IA Generativa
+## 1- Técnicas y Librerías:
+En esta parte, exploraremos diferentes técnicas a través de pequeños ejemplos que nos permitirán construir proyectos más grandes en la siguiente sección. Aprenderemos a utilizar las librerías más comunes en el mundo de los Grandes Modelos de Lenguaje, siempre con un enfoque práctico, basándonos en artículos publicados.
+Algunos de los temas y tecnologías que se tratan en esta sección incluyen: Chatbots, Generación de código, API de OpenAI, Hugging Face, Bases de datos vectoriales, LangChain, Ajuste fino, Ajuste fino PEFT, Ajuste suave de prompts, LoRA, QLoRA, Evaluar modelos, Destilación de conocimiento.
+
+## 2- Proyectos:
+Crearemos proyectos, explicando las decisiones de diseño. Cada proyecto puede tener más de una implementación posible, ya que a menudo no hay una sola solución perfecta. En esta sección, también profundizaremos en temas relacionados con LLMOps, aunque no es el enfoque principal del curso.
+## 3- Soluciones Empresariales:
+Los modelos de lenguaje grandes no son una solución independiente. En los grandes entornos corporativos, son solo una pieza del rompecabezas. Exploraremos cómo estructurar soluciones capaces de transformar organizaciones con miles de empleados, y cómo los Grandes Modelos de Lenguaje juegan un papel principal en estas nuevas soluciones.
+
 ## Semana 10
 ### Clase 19 Vie 11-Oct 2024:
 * Introducción a los modelos de lenguaje grandes con OpenAI.
