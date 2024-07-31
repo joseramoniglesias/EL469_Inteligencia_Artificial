@@ -18,6 +18,8 @@ Los modelos de lenguaje grandes no son una solución independiente. En los grand
 ## Planificación del Curso por Días
 
 # Machine Learning
+Este es un módulo para aquellos interesados en adquirir conocimientos de alto nivel en inteligencia artificial y aprendizaje de máquinas para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
+
 ## Semana 1
 ### Clase 01 Vi 09-Ago 2024:
 * 0.1-Programa del curso [PDF]
@@ -62,13 +64,14 @@ Los modelos de lenguaje grandes no son una solución independiente. En los grand
  * 1.11 ML Infrestructure & Platform [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_ML_Infrastructure_%26_Platforml.pdf)
 
  # Deep Learning
- Las Redes Neuronales Artificiales son modelos computacionales inspirados en el cerebro humano. Muchos de los avances recientes en ciencia y tecnología se han hecho en el campo de la Inteligencia Artificial, que van desde reconocimiento de voz hablada, reconocimiento de imágenes, y robótica, entre otros.
-
-Como se dijo anteriormente, las Redes Neuronales Artificiales son simulaciones inspiradas en el ámbito biológico hechas en un ordenador para realizar tareas como
-
-Clustering
-Clasificación
-Reconocimiento de Patrones
+ Las Redes Neuronales Artificiales son modelos computacionales inspirados en el cerebro humano. Muchos de los avances recientes en ciencia y tecnología se han hecho en el campo de la Inteligencia Artificial, que van desde
+ * Reconocimiento de voz hablada
+ * Reconocimiento de imágenes
+ * Robótica, entre otros.
+ Como se dijo anteriormente, las Redes Neuronales Artificiales son simulaciones inspiradas en el ámbito biológico hechas en un ordenador para realizar tareas como
+* Clustering
+* Clasificación
+* Reconocimiento de Patrones
 Aunque en general, se usan para resolver objetivos específicos guiados por su creador.
  ## Semana 6
  ### Clase 11 Vie 13-Sep 2024:
