@@ -96,7 +96,7 @@ Los modelos de lenguaje grandes no son una solución independiente. En los grand
 ### Clase 18 Sab 05-Oct 2024:
 * Trabajo en clase
 
-# IA Generatia 
+# IA Generativa 
 ## Semana 10
 ### Clase 19 Vie 11-Oct 2024:
 * Introducción a los modelos de lenguaje grandes con OpenAI.
