@@ -97,6 +97,8 @@ Aunque en general, se usan para resolver objetivos específicos guiados por su c
 * Trabajo en clase
 
 # IA Generativa
+La IA generativa se refiere a la rama de la inteligencia artificial que se enfoca en la creación de contenido nuevo y único—como texto, arte visual, música, código de software y más. A diferencia de la IA predictiva (o analítica), que utiliza el aprendizaje automático para analizar datos históricos, identificar patrones o tendencias y luego hacer predicciones, la IA generativa va un paso más allá de simplemente analizar y predecir: la IA generativa crea.
+
 ## 1- Técnicas y Librerías:
 En esta parte, exploraremos diferentes técnicas a través de pequeños ejemplos que nos permitirán construir proyectos más grandes en la siguiente sección. Aprenderemos a utilizar las librerías más comunes en el mundo de los Grandes Modelos de Lenguaje, siempre con un enfoque práctico, basándonos en artículos publicados.
 Algunos de los temas y tecnologías que se tratan en esta sección incluyen: Chatbots, Generación de código, API de OpenAI, Hugging Face, Bases de datos vectoriales, LangChain, Ajuste fino, Ajuste fino PEFT, Ajuste suave de prompts, LoRA, QLoRA, Evaluar modelos, Destilación de conocimiento.
