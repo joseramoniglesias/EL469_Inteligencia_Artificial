@@ -1,5 +1,4 @@
-# Electiva-EL469 Procesamiento de Señales III
-# Inteligencia Artificial 2024-2
+# Electiva-EL469 Inteligencia Artificial 2025
 El curso se divide en tres grandes secciones:
 ## Machine Learning
 ## Deep Learning
@@ -108,56 +107,50 @@ Crearemos proyectos, explicando las decisiones de diseño. Cada proyecto puede t
 ## 3- Soluciones Empresariales:
 Los modelos de lenguaje grandes no son una solución independiente. En los grandes entornos corporativos, son solo una pieza del rompecabezas. Exploraremos cómo estructurar soluciones capaces de transformar organizaciones con miles de empleados, y cómo los Grandes Modelos de Lenguaje juegan un papel principal en estas nuevas soluciones.
 
-## Semana 10
-### Clase 19 Vie 11-Oct 2024:
-* Introducción a los modelos de lenguaje grandes con OpenAI.
-
-### Clase 20 Sab. 12-Oct 2024:
-* Bases de datos vectoriales con LLM.
-
 ## Semana 11
-### Clase 21 Vie. 18-Oct 2024:
-*LangChain.
-
-
-### Clase 22 Sab. 19-Oct 2024:
-
+### Clase 19 Vie 11-Oct 2024:
+* Introducción a la IA Generativa [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL463_Intro_IA_Gen_2025.pdf)
+  
+### Clase 20 Sab. 12-Oct 2024:
+* Trabajo en Python con API.
 
 ## Semana 12
-### Clase 23 Vie. 25-Oct 2024:
-* Evaluación de LLM.
+### Clase 21 Vie. 18-Oct 2024:
+* Vectorización [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Vectorizacion_2025.pdf)
 
-### Clase 24 Sab. 26-Oct 2024:
-
+### Clase 22 Sab. 19-Oct 2024:
+* Trabajo en clase con Python
 
 ## Semana 13
-### Clase 25 Vie. 01-Nov 2024:
-* Ajuste fino y optimización.
+### Clase 23 Vie. 25-Oct 2024:
+* Modelos Generativos Profundos [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Modelos_generativos_profundos_2025.pdf)
+* Modelos Autoregresivos [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Modelos_autoregresivos_2025.pdf)
 
-### Clase 26 Sab. 02-Nov 2024:
-
+### Clase 24 Sab. 26-Oct 2024:
+* Trabajo en clse con python
 
 ## Semana 14
-### Clase 27 Vie. 08-Nov 2024:
-* 
+### Clase 25 Vie. 01-Nov 2024:
+* Modelos LLM Trabajo Práctico
 
-### Clase 28 Sab. 09-Nov 2024:
-
+### Clase 26 Sab. 02-Nov 2024:
+* Trabajo Práctico
 
 ## Semana 15
-### Clase 29 Vie. 15-Nov 2024:
+### Clase 27 Vie. 08-Nov 2024:
+* Ética [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Etica_2025.pdf)
 
-
-### Clase 30 Sab. 16-Nov 2024:
-
+### Clase 28 Sab. 09-Nov 2024:
+* Trabajo Práctico
 
 ## Semana 16
-### Clase 31 Vie. 22-Nov 2024:
+### Clase 29 Vie. 15-Nov 2024:
+* Proyecto Final
 
-
-### Clase 32 Sab. 23-Nov-2024:
+### Clase 30 Sab. 16-Nov 2024:
+* Proyecto Final
 
 
 ___________________________________________________
 
-Actualizado el 31-7-2024
+Actualizado el 31-1-2025
