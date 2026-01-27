@@ -96,10 +96,10 @@ Aunque en general, se usan para resolver objetivos específicos guiados por su c
 * Trabajo en clase
 
 ## Semana 10
-### Clase 19 Vie 1-May 2026:
+### Clase 19 Vie 8-May 2026:
 * 10.1 Video Understanding [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Lectures/EL469_DL_2024_lecture_10.pdf)
 
-### Clase 20 Sab 2-May 2026:
+### Clase 20 Sab 9-May 2026:
 * Trabajo en Clase
 
 # IA Generativa
@@ -115,46 +115,46 @@ Crearemos proyectos, explicando las decisiones de diseño. Cada proyecto puede t
 Los modelos de lenguaje grandes no son una solución independiente. En los grandes entornos corporativos, son solo una pieza del rompecabezas. Exploraremos cómo estructurar soluciones capaces de transformar organizaciones con miles de empleados, y cómo los Grandes Modelos de Lenguaje juegan un papel principal en estas nuevas soluciones.
 
 ## Semana 11
-### Clase 21 Vie 8-May 2026:
+### Clase 21 Vie 15-May 2026:
 * Introducción a la IA Generativa [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL463_Intro_IA_Gen_2025.pdf)
   
-### Clase 22 Sab. 9-May 202:
+### Clase 22 Sab. 16-May 202:
 * Trabajo en Python con API.
 
 ## Semana 12
-### Clase 23 Vie. 15-May 202:
+### Clase 23 Vie. 22-May 202:
 * Vectorización [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Vectorizacion_2025.pdf)
 
-### Clase 24 Sab. 16-Nay 2026:
+### Clase 24 Sab. 23-Nay 2026:
 * Trabajo en clase con Python
 
 ## Semana 13
-### Clase 25 Vie. 22-May 2026:
+### Clase 25 Vie. 29-May 2026:
 * Modelos Generativos Profundos [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Modelos_generativos_profundos_2025.pdf)
 * Modelos Autoregresivos [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Modelos_autoregresivos_2025.pdf)
 
-### Clase 26 Sab. 23-May 202:
+### Clase 26 Sab. 30-May 202:
 * Trabajo en clse con python
 
 ## Semana 14
-### Clase 27 Vie. 29-May 2026:
+### Clase 27 Vie. 5-Jun 2026:
 * Modelos LLM Trabajo Práctico
 
-### Clase 28 Sab. 30-May 2026:
+### Clase 28 Sab. 6-Jun 2026:
 * Trabajo Práctico
 
 ## Semana 15
-### Clase 29 Vie. 5-Jun 2026:
+### Clase 29 Vie. 12-Jun 2026:
 * Ética [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/IA%20Generativa/EL469_Etica_2025.pdf)
 
-### Clase 30 Sab. 6-Jun 2026:
+### Clase 30 Sab. 13-Jun 2026:
 * Trabajo Práctico
 
 ## Semana 16
-### Clase 31 Vie. 12-Jun 202:
+### Clase 31 Vie. 19-Jun 202:
 * Proyecto Final
 
-### Clase 32 Sab. 13-Jun 2026:
+### Clase 32 Sab. 20-Jun 2026:
 * Proyecto Final
 
 
