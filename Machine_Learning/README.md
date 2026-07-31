@@ -1,5 +1,5 @@
-# Operaciones de Aprendizaje Automático I
-Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Operaciones de Aprendizaje Automático I (CEIA - FIUBA). 
+# Operaciones de Aprendizaje Automático 
+Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Operaciones de Aprendizaje Automático. 
 
 Para revisar los criterios de aprobación, ver el [documento correspondiente](CriteriosAprobacion.md).
 
@@ -9,7 +9,7 @@ El objetivo de la materia es acercar a los alumnos los conceptos necesarios para
 ### Organización del Repositorio
 ``` 
     clase#
-        teoria
+        Diapositivas
         hands-on
         README.md
 ```
