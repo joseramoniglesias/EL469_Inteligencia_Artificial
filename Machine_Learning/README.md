@@ -1,7 +1,6 @@
 # Operaciones de Aprendizaje Automático 
 Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Operaciones de Aprendizaje Automático. 
 
-Para revisar los criterios de aprobación, ver el [documento correspondiente](CriteriosAprobacion.md).
 
 ### Objetivo de la materia
 El objetivo de la materia es acercar a los alumnos los conceptos necesarios para desarrollar productos de software relacionados a Machine Learning y análisis de datos de una manera escalable y siguiendo buenas prácticas de programación. También se trabaja sobre las tareas operativas de Machine Learning (MLOps) con distintas herramientas para disponibilizar los resultados en ambientes productivos 🚀.
