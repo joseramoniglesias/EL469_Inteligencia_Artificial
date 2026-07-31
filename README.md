@@ -16,6 +16,9 @@ Este es un módulo para aquellos interesados en adquirir conocimientos de alto n
 * 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.1-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
 * 1.2 AWS SageMaker Studio Lab [Internet] (https://studiolab.sagemaker.aws/)
+* 1.3 Introducción al Machine Learning y Big Data [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_Clase_1_Introduccion_a_Machine%20Learning_BigData.pdf)
+* 1.4 Árboles de Decisión y Clasificación [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_Clase_2_DecisionTree_Clasificaci%C3%B3n.pdf)
+* 1.5 Artículo para Leer [Lectura](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/Breiman2001_Article_RandomForests.pdf)
 
 ### Clase 2 Sáb 15-Ago 2026:
 * 1.2-Aspetos Básicos [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_AspectosbasicosML.pdf))
