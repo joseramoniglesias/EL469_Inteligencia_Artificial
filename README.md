@@ -65,44 +65,38 @@ Este es un módulo para aquellos interesados en adquirir conocimientos de alto n
 Aunque en general, se usan para resolver objetivos específicos guiados por su creador.
  ## Semana 6
  ### Clase 11 Vie 18-Sep 2026:
- * 2.2 Training Neural Networks [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_6.pdf)
+ * 2.2 Introducción al Deep Learning , redes neuronales y forward pass [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Diapositivas/EL469_Clase_11.pdf)
  
  ### Clase 12 Sab 19-Sep 2026:
- * Trabajo en clase
+ * 2.3 Backpropagation , funciones de activación, funciones de costo y algoritmos de optimización [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Diapositivas/EL469_Clase12.pdf)
 
  ## Semana 7
  ### Clase 13 Vie 25-Sep 2026:
- * 2.3 CNN Arquitetures [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_7.pdf)
-
+ * 2.4 Introducción al framework PyTorch
+   
  ### Clase 14 Sab 26-Sep 2026:
- * Trabajo en clase
+ * 2.5 Regularización, hyperparameter tuning y embeddings [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Diapositivas/EL469_Clase14.pdf)
 
 ## Semana 8
 ### Clase 15 Vier 02-Oct 2026:
-* 2.4 Recurrent Neural Networks [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_8.pdf)
-* 2.4 DL book RNN [Paper](https://www.deeplearningbook.org/contents/rnn.html)
-* 2.4 Understanding LSTM Networks [Paper](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* 2.6 Convolutional Neural Networks ( CNNs) [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Diapositivas/EL469_Clase_15.pdf)
 
 ### Clase 16 Sab 03-Oct 2026:
-* Trabajo en clase
+* 2.7 Recurrent Neural Networks ( RNNs) Attention Layers [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Diapositivas/EL469_Clase_16.pdf)
 
 ## Semana 9
 ### Clase 17 Vie 09-Oct 2026:
-* 2.5 Attention and Transformers [PPT](https://github.com/joseramoniglesias/EL469_DeepLearning/blob/main/Cap01_DeepLearning_Basic/Lecture/EL469_lecture_9.pdf)
-* Suggested Readings:
-* Attention is All You Need [Original Transformers Paper](https://arxiv.org/abs/1706.03762)
-* Attention? Attention [Blog by Lilian Weng](https://lilianweng.github.io/posts/2018-06-24-attention/)
-* The Illustrated Transformer [Blog by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
+* 2.8 Encoder Decoder Autoencoder Transfer learning [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Diapositivas/EL469_Clase_17.pdf)
 
 ### Clase 18 Sab 10-Oct 2026:
-* Trabajo en clase
+* 2.9 Generative Adversarial Networks ( GANs) [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Diapositivas/EL469_clase_18.pdf)
 
 ## Semana 10
 ### Clase 19 Vie 16-Oct 2026:
-* 10.1 Video Understanding [PPTX](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Deep_Learning/Lectures/EL469_DL_2024_lecture_10.pdf)
+* 2.10 Video Trabajo en Clase
 
 ### Clase 20 Sab 17-Oct 2026:
-* Trabajo en Clase
+* 2.11 Trabajo en Clase
 
 # IA Generativa
 La IA generativa se refiere a la rama de la inteligencia artificial que se enfoca en la creación de contenido nuevo y único—como texto, arte visual, música, código de software y más. A diferencia de la IA predictiva (o analítica), que utiliza el aprendizaje automático para analizar datos históricos, identificar patrones o tendencias y luego hacer predicciones, la IA generativa va un paso más allá de simplemente analizar y predecir: la IA generativa crea.
