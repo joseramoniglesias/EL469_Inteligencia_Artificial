@@ -26,33 +26,33 @@ Este es un módulo para aquellos interesados en adquirir conocimientos de alto n
 
 ## Semana 2
 ### Clase 3 Vie 21-Ago 2026:
-* 1.3-Slides Training Data [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_03_slides_training_data.pdf)
+* 1.4-Clustering [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_Clase7_Clustering.pdf)
+* 1.5 Series Temporales [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_Clase6_SeriesTemporales.pdf)
 
 ### Clase 4 Sáb 22-Ago 2026:
-* 1.4 Códigos en Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/tree/main/Machine_Learning/Python)
+* 1.6 Operaciones de Aprendizaje Automático [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_clase1_2026.pdf)
 
 ## Semana 3
 ### Clase 5 Vie 28-Ago 2026:
-* 1.5-Model Selection, Developmente and Training [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_05_model_development.pdf)
+* 1.7-Desarrollo de Modelos [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_clase2_2026.pdf)
 
 ### Clase 6 Sáb 29-Ago 2026:
-* 1.6 Model Offline Evaluation [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_06_model_evaluation.pdf)
+* 1.6 Infraestructura y Herramientas de MLOps [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_clase3_2026.pdf)
 
 ## Semana 4
 ### Clase 7 Vie 04-Sepr 2026:
-* 1.7-Model Evaluation [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_07_Evaluation_Goku_Mohandas.pdf)
+* 1.7-Orquestadores y Sincronizadores [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_clase4_2026.pdf)
 
 ### Clase 8 Sáb 05-Sep 2026:
-* 1.8 Deploymente - Prediction Service [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_08_deployment.pdf)
+* 1.8 Desplegado de Modelos Predicción en Lotes [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_clase5_2026.pdf)
 
  ## Semana 5
  ### Clase 9 Vié 11-Sep 2026:
- * 1.9 Data Distribution Shifts and Monitoring [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_ml_failure_diagnosis.pdf)
+ * 1.9 Desplegado de Modelos Predicción on-Line [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_clase6_2026.pdf)
  
  ### Clase 10 Sab 12-Sep 2026:
- * 1.10 ML Beyond Accuracy: Fairness, Security, Gobernance [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_deployment_beyond_test_set_accuracy.pdf)
- * 1.11 ML Infrestructure & Platform [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_ML_Infrastructure_%26_Platforml.pdf)
-
+ * 1.10 Sirviendo Modelos en el Mundo Real [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_clase7_2026.pdf)
+ 
  # Deep Learning
  Las Redes Neuronales Artificiales son modelos computacionales inspirados en el cerebro humano. Muchos de los avances recientes en ciencia y tecnología se han hecho en el campo de la Inteligencia Artificial, que van desde
  * Reconocimiento de voz hablada
