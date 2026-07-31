@@ -21,9 +21,8 @@ Este es un módulo para aquellos interesados en adquirir conocimientos de alto n
 * 1.5 Artículo para Leer [Lectura](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/Breiman2001_Article_RandomForests.pdf)
 
 ### Clase 2 Sáb 15-Ago 2026:
-* 1.2-Aspetos Básicos [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_AspectosbasicosML.pdf))
-* 1.3 Understanding ML Production [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_01_Understanding_ML_production.pdf)
-* 1.4 ML and Data Systems Fundamentals [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Lectures/EL469_2024_1_02_MLandData_Systems_Fundamentals.pdf)
+* 1.2-Aprendizaje Automático [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_Clase5_AutoML.pdf))
+* 1.3 Máquina Vector Soporte SVM [PPT](https://github.com/joseramoniglesias/EL469_Inteligencia_Artificial/blob/main/Machine_Learning/Diapositivas/EL469_Clase4_SVM.pdf)
 
 ## Semana 2
 ### Clase 3 Vie 21-Ago 2026:
